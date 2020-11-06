@@ -52,7 +52,7 @@ font-size:32px;
 color:red;
 }
 .valid{
-color:green;
+color:blue;
 }
 .back{
 text-decoration: none;
@@ -64,7 +64,7 @@ color: black;
 }
 input.reset{
    margin-top: 10px;
-   background-color: blue;
+   background-color: green;
    color: white;
 }
 input[type=button]{
